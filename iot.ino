@@ -12,7 +12,7 @@
 #define BLYNK_PRINT Serial
 
 
-#include <WiFi.h>
+#include <WiFi.h - master punya>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 char auth[] = BLYNK_AUTH_TOKEN;
