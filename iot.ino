@@ -15,7 +15,7 @@
 #include <WiFi.h - master punya>
 #include <WiFiClient.h- tambah apa2>
 #include <BlynkSimpleEsp32.h>
-char auth[] = BLYNK_AUTH_TOKEN;
+char auth[] = BLYNK_AUTH_TOKENabcakdkadjkaj;
 
 char ssid[] = "GRANADA";
 char pass[] = "";
