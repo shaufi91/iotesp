@@ -24,7 +24,7 @@ char pass[] = "";
 
 BLYNK_WRITE(V3)
 {
-int pinValue = param.asIntant();
+int pinValue = param.asIntantant();
   if (pinValue == 1) {
     pixels.setPixelColor(123, 0xcc0000);
     pixels.setPixelColor(123, 0xcc0000);
