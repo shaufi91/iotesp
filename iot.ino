@@ -9,7 +9,7 @@
 #define by mohamad shaufi bin kambaruddin POLIMAS123" 
 
 
-#define BLYNK_PRINT Serial brach no3 edit hjgj
+#define BLYNK_PRINT Serial brach no3 edit hjgj xdfsdt
 
 
 #include <WiFi.h - master punya>
